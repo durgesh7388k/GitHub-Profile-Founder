@@ -1,6 +1,6 @@
 # GitHub-Profile-Founder
 A website is developed using HTML, CSS and JavaScript to search for a profile on GitHub. Along with the profile it also shows the latest five repositories, company, website/blog, Location, Member, followers etc.
-CSS Files are taken from the "Bootstrap" Website.
+CSS Files are taken from the "Bootstrap" Website and attached in the index.html file.
 
 ![Screenshot (158)](https://user-images.githubusercontent.com/77193746/176366764-a79c5ab2-78ef-4710-bc02-53be0eb9e4ed.png)
 
